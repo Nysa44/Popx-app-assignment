@@ -23,5 +23,5 @@ The app will be live at http://localhost:3000
 
 
 
-deploy link : https://popx-app-assignment.vercel.app/
+deploy link : https://popx-app-assignment-tan.vercel.app/
 
