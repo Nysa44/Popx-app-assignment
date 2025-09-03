@@ -1,5 +1,7 @@
 Popx App – Login & Signup System
 
+
+
 Features
 
 ✅ Login Page 
@@ -9,12 +11,16 @@ Features
 ✅ Google Fonts – Inter for modern typography
 ✅ Reusable components for scalability
 
+
+
 Tech Stack
 
 Frontend: React.js, TailwindCSS (or custom CSS if you used it)
 Icons: Google Material Symbols
 Fonts: Google Fonts (Inter)
 Version Control: Git & GitHub
+
+
 
 Project Structure
 popx-app-assignment/
@@ -29,13 +35,17 @@ popx-app-assignment/
 │── package.json
 │── README.md
 
+
 To Run:
+
 Clone the repository:
 git clone https://github.com/Nysa44/popx-app-assignment.git
 cd popx-app
 
+
 Install dependencies:
 npm install
+
 
 Run the development server:
 npm start
