@@ -1,8 +1,6 @@
-🌟 Popx App – Login & Signup System
+Popx App – Login & Signup System
 
-A modern React.js application with Login & Signup pages, designed with a clean UI, responsive layout, and branding using the Popx logo. This project is a starting point for authentication-based apps.
-
-🚀 Features
+Features
 
 ✅ Login Page 
 ✅ Signup Page
@@ -11,18 +9,15 @@ A modern React.js application with Login & Signup pages, designed with a clean U
 ✅ Google Fonts – Inter for modern typography
 ✅ Reusable components for scalability
 
-🛠️ Tech Stack
+Tech Stack
 
 Frontend: React.js, TailwindCSS (or custom CSS if you used it)
-
 Icons: Google Material Symbols
-
 Fonts: Google Fonts (Inter)
-
 Version Control: Git & GitHub
 
-📂 Project Structure
-Popx-App/
+Project Structure
+popx-app-assignment/
 │── public/
 │   ├── index.html        # Entry HTML
 │   ├── mainlogo.png      # App logo
@@ -34,29 +29,20 @@ Popx-App/
 │── package.json
 │── README.md
 
-⚡ Getting Started
-1️⃣ Clone the repository
-git clone https://github.com/your-username/popx-app.git
+To Run:
+Clone the repository:
+git clone https://github.com/Nysa44/popx-app-assignment.git
 cd popx-app
 
-2️⃣ Install dependencies
+Install dependencies:
 npm install
 
-3️⃣ Run the development server
+Run the development server:
 npm start
 
 
-Your app will be live at 👉 http://localhost:3000
+The app will be live at http://localhost:3000
 
-
-🔐 Login Page
-📝 Signup Page
-
-🎨 Branding
-
-This project uses the Popx Logo:
-
-<img src="./public/mainlogo.png" alt="Popx Logo" width="120"/>
 
 deploy link : https://popx-app-assignment.vercel.app/
 
